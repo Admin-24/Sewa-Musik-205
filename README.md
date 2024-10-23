@@ -131,10 +131,10 @@
         <div class="slider">
             <div class="slides">
                 <div class="slide">
-                    <img src="IMG_20241023_145838.jpg" alt="Gambar Gitar">
+                    <img src="IMG_20241023_145838.jpg" alt="Gitar">
                 </div>
                 <div class="slide">
-                    <img src="IMG_20241023_145139.jpg" alt="Gambar Drum Elektrik">
+                    <img src="IMG_20241023_145139.jpg" alt="Drum Elektrik">
                 </div>
             </div>
         </div>
